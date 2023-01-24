@@ -1,6 +1,8 @@
 # Bash scripts by example
 
-Bash scripts are sets of the same commands that can be entered from the keyboard, but compiled into a single file and united by some common purpose. This approach allows you to automate a lot of routine tasks such as building projects or installing new programs. Bash is easy to learn and use, flexible and somehow present in the vast majority of Linux distributions.
+[`English`](https://github.com/cheatsnake/bash-scripts-by-example/blob/master/README.md) [`Russian`](https://github.com/cheatsnake/bash-scripts-by-example/blob/master/README_RUS.md)
+
+**Bash scripts** are sets of the same commands that can be entered from the keyboard, but compiled into a single file and united by some common purpose. This approach allows you to automate a lot of routine tasks such as building projects or installing new programs. Bash is easy to learn and use, flexible and somehow present in the vast majority of Linux distributions.
 
 Bash scripts have an extension `.sh`:
 
