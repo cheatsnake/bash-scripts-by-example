@@ -57,7 +57,7 @@ $ cat /etc/shells
 ## Hello world
 
 ```sh
-#! /bin/bash
+#!/bin/bash
 echo "Hello world"
 ```
 
