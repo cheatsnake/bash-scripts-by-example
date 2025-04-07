@@ -13,7 +13,7 @@ $ touch script.sh
 It is good practice to specify the path to your terminal at the beginning of each script:
 
 ```sh
-#! /bin/bash
+#!/bin/bash
 ```
 
 > This technique is called **shebang**, you can read more about it [here](<https://en.wikipedia.org/wiki/Shebang_(Unix)>).
